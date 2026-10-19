@@ -46,6 +46,11 @@ https://raw.githubusercontent.com/pdone/lx-music-source/main/juhe/latest.js
 https://raw.githubusercontent.com/pdone/lx-music-source/main/qdy/latest.js
 ```
 
+### XingHai
+```
+https://raw.githubusercontent.com/pdone/lx-music-source/main/xinghai/latest.js
+```
+
 ## 在线导入 - 加速链接
 
 ### SixYin
@@ -91,6 +96,11 @@ https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/juhe/la
 https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/qdy/latest.js
 ```
 
+### XingHai
+```
+https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/xinghai/latest.js
+```
+
 ### 其他加速站点
 
 当以上链接无法访问时，可将连接开头的 `https://ghproxy.net/` 替换为下边任一地址，然后重试。
@@ -104,6 +114,25 @@ https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/qdy/lat
 
 > 加速链接仅推荐访问GitHub受限的用户使用，如果你的网络可以流畅访问GitHub，建议直接使用原始链接。
 
+## 音源可用性
+
+<!-- HEALTH-CHECK:START -->
+| 音源 | 状态 |
+| --- | --- |
+| changqing | 🟢 可用 |
+| huanyin | 🟢 可用 |
+| qdy | 🟢 可用 |
+| xinghai | 🟢 可用 |
+| huibq | 🟡 异常 |
+| juhe | 🟡 异常 |
+| flower | 🔴 失效 |
+| grass | 🔴 失效 |
+| ikun | 🔴 失效 |
+| lx | 🔴 失效 |
+
+检测时间：2026-10-19 21:39（北京时间）
+<!-- HEALTH-CHECK:END -->
+
 ## 数据来源
 - [SixYin](https://www.sixyin.com/)
 - [Huibq/keep-alive](https://github.com/Huibq/keep-alive/)
@@ -111,6 +140,7 @@ https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/qdy/lat
 - [ikun](https://github.com/MeoProject/lx-music-api-server)
 - ChangQing（长青SVIP音源 by 元力菌）
 - HuanYin（幻音音源 by 竹佀）
+- XingHai（星海音乐源 by 万去了了 / 科学大魔王）
 
 ## 项目地址
 - [lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)

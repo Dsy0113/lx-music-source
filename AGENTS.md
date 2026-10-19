@@ -11,6 +11,7 @@
 - `ikun/` - ikun 源
 - `grass/` - Grass 源
 - `juhe/` - 聚合 API 源
+- `xinghai/` - 星海源
 - `CreateLatest.py` - 更新 latest.js 的脚本
 
 ## 命令
