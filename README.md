@@ -1,109 +1,135 @@
 # lx-music-source
 洛雪音乐源，内容源于网络
 
-## 在线导入 - 原始链接
+## 在线导入
 
-### SixYin
-```
-https://raw.githubusercontent.com/pdone/lx-music-source/main/sixyin/latest.js
-```
-### Huibq
-```
-https://raw.githubusercontent.com/pdone/lx-music-source/main/huibq/latest.js
-```
-### Flower
-```
-https://raw.githubusercontent.com/pdone/lx-music-source/main/flower/latest.js
-```
-### LX
-```
-https://raw.githubusercontent.com/pdone/lx-music-source/main/lx/latest.js
-```
+> [!TIP]
+> 每种音源包含两个链接，第一个是GitHub原始链接，第二个是加速链接（供访问 GitHub 受限的用户使用）。
+
+<a id="changqing"></a>
 ### ChangQing
+
 ```
 https://raw.githubusercontent.com/pdone/lx-music-source/main/changqing/latest.js
 ```
-### HuanYin
+
 ```
-https://raw.githubusercontent.com/pdone/lx-music-source/main/huanyin/latest.js
+https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/changqing/latest.js
 ```
-### ikun
+
+<a id="flower"></a>
+### Flower
+
 ```
-https://raw.githubusercontent.com/pdone/lx-music-source/main/ikun/latest.js
+https://raw.githubusercontent.com/pdone/lx-music-source/main/flower/latest.js
 ```
+
+```
+https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/flower/latest.js
+```
+
+<a id="grass"></a>
 ### Grass
+
 ```
 https://raw.githubusercontent.com/pdone/lx-music-source/main/grass/latest.js
 ```
 
-### JuheApi
-```
-https://raw.githubusercontent.com/pdone/lx-music-source/main/juhe/latest.js
-```
-
-### QDY
-```
-https://raw.githubusercontent.com/pdone/lx-music-source/main/qdy/latest.js
-```
-
-### XingHai
-```
-https://raw.githubusercontent.com/pdone/lx-music-source/main/xinghai/latest.js
-```
-
-## 在线导入 - 加速链接
-
-### SixYin
-```
-https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/sixyin/latest.js
-```
-### Huibq
-```
-https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/huibq/latest.js
-```
-### Flower
-```
-https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/flower/latest.js
-```
-### LX
-```
-https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/lx/latest.js
-```
-### ChangQing
-```
-https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/changqing/latest.js
-```
-### HuanYin
-```
-https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/huanyin/latest.js
-```
-### ikun
-```
-https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/ikun/latest.js
-```
-### Grass
 ```
 https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/grass/latest.js
 ```
 
+<a id="huanyin"></a>
+### HuanYin
+
+```
+https://raw.githubusercontent.com/pdone/lx-music-source/main/huanyin/latest.js
+```
+
+```
+https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/huanyin/latest.js
+```
+
+<a id="huibq"></a>
+### Huibq
+
+```
+https://raw.githubusercontent.com/pdone/lx-music-source/main/huibq/latest.js
+```
+
+```
+https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/huibq/latest.js
+```
+
+<a id="ikun"></a>
+### ikun
+
+```
+https://raw.githubusercontent.com/pdone/lx-music-source/main/ikun/latest.js
+```
+
+```
+https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/ikun/latest.js
+```
+
+<a id="juhe"></a>
 ### JuheApi
+
+```
+https://raw.githubusercontent.com/pdone/lx-music-source/main/juhe/latest.js
+```
+
 ```
 https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/juhe/latest.js
 ```
 
+<a id="lx"></a>
+### LX
+
+```
+https://raw.githubusercontent.com/pdone/lx-music-source/main/lx/latest.js
+```
+
+```
+https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/lx/latest.js
+```
+
+<a id="qdy"></a>
 ### QDY
+
+```
+https://raw.githubusercontent.com/pdone/lx-music-source/main/qdy/latest.js
+```
+
 ```
 https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/qdy/latest.js
 ```
 
+<a id="sixyin"></a>
+### SixYin
+
+```
+https://raw.githubusercontent.com/pdone/lx-music-source/main/sixyin/latest.js
+```
+
+```
+https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/sixyin/latest.js
+```
+
+<a id="xinghai"></a>
 ### XingHai
+
+```
+https://raw.githubusercontent.com/pdone/lx-music-source/main/xinghai/latest.js
+```
+
 ```
 https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/xinghai/latest.js
 ```
 
 ### 其他加速站点
 
-当以上链接无法访问时，可将连接开头的 `https://ghproxy.net/` 替换为下边任一地址，然后重试。
+当以上链接无法访问时，可将各音源第二个代码块中的链接开头的 `https://ghproxy.net/` 替换为下边任一地址，然后重试。
 
 - https://gh.llkk.cc/
 - https://github.moeyy.xyz/
@@ -111,8 +137,6 @@ https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/xinghai
 - https://gh.api.99988866.xyz/
 - https://ghp.ci/
 - https://gh-proxy.org/
-
-> 加速链接仅推荐访问GitHub受限的用户使用，如果你的网络可以流畅访问GitHub，建议直接使用原始链接。
 
 ## 音源可用性
 

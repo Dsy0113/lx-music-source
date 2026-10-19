@@ -207,14 +207,21 @@ def aggregate_by_source(link_rows):
 
 
 def render_table(rows):
-    """渲染 markdown 表格（表头 + 数据行，仅音源/状态两列）。"""
+    """渲染 markdown 表格（表头 + 数据行，仅音源/状态两列）。
+
+    音源列输出为指向 README"在线导入"章节中该音源小节显式锚点的
+    markdown 链接，格式为 [<音源名>](#<音源名>)，锚点名与音源目录名
+    一致（如 juhe 对应 <a id="juhe"></a>，而非标题 JuheApi 的自动
+    slug）。排序在聚合阶段（aggregate_by_source）基于裸音源名完成，
+    链接标记不参与排序。
+    """
     lines = [
         '| 音源 | 状态 |',
         '| --- | --- |',
     ]
     for row in rows:
-        lines.append('| {} | {} {} |'.format(
-            row['source'], STATUS_ICON[row['status']], row['status']))
+        lines.append('| [{}](#{}) | {} {} |'.format(
+            row['source'], row['source'], STATUS_ICON[row['status']], row['status']))
     return '\n'.join(lines)
 
 
